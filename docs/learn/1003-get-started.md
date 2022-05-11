@@ -50,7 +50,7 @@ cd examples/todoapp
 ls -la
 ```
 
-This React application will use Yarn to build a static website with the following directories and files.
+This React application will use Yarn to build a static website with the following directories and files:
 
 ```bash
 -rw-r--r--   ...     794 Sep  7 10:09 package.json
